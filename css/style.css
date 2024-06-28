@@ -36,7 +36,7 @@ body {
 
 .group-border {
 	border: 1px solid #070707;
-	box-shadow: 1px 1px 2px black;
+	box-shadow: 2px 2px 3px black;
 	margin: 0px 3vw 5px;
 	border-radius: 4px;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .group-title {
-	margin: 5px 3vw 5px;
+	margin: 20px 3vw 5px;
 }
 
 .info-buttom {
@@ -64,7 +64,7 @@ body {
 .ad-search-items {
 	display: flex;
 	justify-content: space-between;
-	margin: 14vh 25vw 10px 25vw
+	margin: 18vh 25vw 10px 25vw
 }
 
 .adicionar-item {
